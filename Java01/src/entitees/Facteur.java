@@ -18,6 +18,7 @@ public class Facteur extends Personne implements mesinterfaces.iFacteur
 	public Facteur(String nom, String prenom, AdressePostale adr) {
 		super(nom, prenom, adr);
 		// TODO Auto-generated constructor stub
+		//1er commit branch  fonction1
 	}
 
 	
